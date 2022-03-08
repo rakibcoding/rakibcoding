@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on something Cool.
 - 🌱 I’m currently learning React JS, Node JS & Express JS
 - 💬 Ask me about (https://github.com/Rakib-Coder00/Rakib-Coder00/issues)
+- 📧  How to reach me: rakibdev00@gmail.com
 - 😄 Pronouns:
 - ⚡ Fun fact:
 
