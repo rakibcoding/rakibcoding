@@ -1,4 +1,4 @@
-### Hi there 👋 It's me Rakib Coder
+### Hi there 👋 It's me Rakib
 
 
 
