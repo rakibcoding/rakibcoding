@@ -1,5 +1,5 @@
-### Hi there 👋 It's me Rakib
-
+### Hi there 👋 It's me Rakib.
+I’m currently working on something Cool and also a full-stack web developer with hands-on experience in the MERN stack.
 
 
 Here are some ideas to get you started:
@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React JS, Node JS & Express JS
 - 💬 Ask me about (https://github.com/Rakib-Coder00/Rakib-Coder00/issues)
 - 📧  How to reach me : rakibdev00@gmail.com
-- 😄 Pronouns :
-- ⚡ Fun fact :
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact :  I love to play Valorant. :)
 
 <br />
 <br />
