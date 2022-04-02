@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![website](./img/instagram-light.svg)](https://www.instagram.com/rakib_xeta/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/rakib_xeta/#gh-dark-mode-only)
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
@@ -51,8 +51,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
-<br />
----
+
+
+--- -->
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rakib-Coder00&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
