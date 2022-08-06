@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 
 <!-- ![](https://i.imgur.com/AISkwEs.png) -->
 <br />
-<br />
 
 ---
 
@@ -80,12 +79,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rakib-Coder00&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
-<!-- <img src="https://komarev.com/ghpvc/?username=Tanu-N-Prabhu"/> -->
 
-![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakib-Coder00&theme=github_dark&show_icons=true)
-
----
-## Support
+## Support :
 👍🏻 If you're using this project & happy with it or you appreciate what I do and wish to support my work, you can consider by 
 - Support To Buy Ko-fi 🍵
 - Buy Me A Coffee ☕️
