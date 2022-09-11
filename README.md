@@ -1,4 +1,5 @@
 ### Hi there 👋 It's me Rakib.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif">
 I’m currently working on something Cool and also a full-stack web developer with hands-on experience in the MERN stack.
 
 
