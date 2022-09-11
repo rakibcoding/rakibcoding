@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rakib-dev/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rakib-dev/#gh-dark-mode-only)
 &nbsp;&nbsp;
+
 [![website](./img/instagram-light.svg)](https://www.instagram.com/rakib_xeta/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/rakib_xeta/#gh-dark-mode-only) -->
 
@@ -54,7 +55,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/express.js-404D59?style==for-the-badge&logo=express&logoColor=%2361DAFB)
-![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-ui)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![JSON Web Tokens](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
@@ -74,6 +75,9 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
+
 ---
 
 ### GitHub Streak :
