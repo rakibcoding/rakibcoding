@@ -54,6 +54,9 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/express.js-404D59?style==for-the-badge&logo=express&logoColor=%2361DAFB)
+![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-ui)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![JSON Web Tokens](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -67,12 +70,9 @@ Here are some ideas to get you started:
 <br />
 
 ## Technologies I want to explore :
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-ui)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ---
 
