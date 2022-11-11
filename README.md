@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 ---
 
 ## Support :
-👍🏻 If you're using this project & happy with it or you appreciate what I do and wish to support my work, you can consider by 
+👍🏻 If you're using any of these project & happy with it or you appreciate what I do and wish to support my work, you can consider by 
 - Support To Buy Ko-fi 🍵
 - Buy Me A Coffee ☕️
 - Become a Patreon 💥
