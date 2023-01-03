@@ -1,4 +1,4 @@
-### Hi there 👋 It's me Rakib.
+### Hi there 👋 It's me [Rakib](https://rakibdev.netlify.app/).
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/Z8k9Dvn/prof-img.gif">
 I’m currently working on something Cool and also a full-stack web developer with hands-on experience in the MERN stack.
 
@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/express.js-404D59?style==for-the-badge&logo=express&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
@@ -76,6 +75,7 @@ Here are some ideas to get you started:
 <br />
 
 ## Technologies I want to explore :
+![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
