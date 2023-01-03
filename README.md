@@ -1,5 +1,5 @@
 ### Hi there 👋 It's me Rakib.
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/Z8k9Dvn/prof-img.gif">
 I’m currently working on something Cool and also a full-stack web developer with hands-on experience in the MERN stack.
 
 
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning advance Python
 - 💬 Ask me about (https://github.com/Rakib-Coder00/Rakib-Coder00/issues)
 - 📧  How to reach me : rakibdev00@gmail.com
-- 🥅 2022 Goals: Learn more about web3 & Blockchain
+- 🥅 2023 Goals: Learn more about web3 & Blockchain
 - ⚡ Fun fact :  I love to play Valorant. :)
 
 <!-- ![](https://i.imgur.com/AISkwEs.png) -->
