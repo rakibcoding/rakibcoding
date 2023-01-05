@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on something Cool.
 - 🌱 I’m currently learning advance Python
 - 💬 Ask me about (https://github.com/Rakib-Coder00/Rakib-Coder00/issues)
-- 📧  How to reach me : rakibdev00@gmail.com
+- 📧 How to reach me : rakibdev00@gmail.com
 - 🥅 2023 Goals: Learn more about web3 & Blockchain
 - ⚡ Fun fact :  I love to play Valorant. :)
 
