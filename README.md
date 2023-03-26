@@ -81,10 +81,12 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=amazon-aws)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&logo=redis&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?&logo=chakraui&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?&logo=strapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white)
 ---
 
 ### GitHub Streak :
