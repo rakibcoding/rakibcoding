@@ -1,6 +1,6 @@
 ### Hi there 👋 It's me [Rakib](https://rakibdev.netlify.app/).
 <!-- <img align="right" alt="Coding" width="400" src="https://i.ibb.co/Z8k9Dvn/prof-img.gif"> -->
-<img align="right" width="400" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
+<img align="right" width="250" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
 I’m currently working on something Cool and also a full-stack web developer with hands-on experience in the MERN stack.
 
 
