@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Connect with me :
 
 <p align="center">
-  <a href="https://www.facebook.com/RakibDevOfficial" target="_blank"><img height="27" src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.facebook.com/RakibDevOfficial" target="_blank"><img height="25" src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="mailto:rakibh.dev@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/iamrakibh/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://rakibdev.netlify.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
@@ -48,43 +48,43 @@ Here are some ideas to get you started:
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/rakib_xeta/#gh-dark-mode-only) -->
 
 ## My tech stack :
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Expressjs](https://img.shields.io/badge/express.js-404D59?style==for-the-badge&logo=express&logoColor=%2361DAFB)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
-![JSON Web Tokens](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/-Next.js-000000?&logo=next.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb&logoColor=white)
+![Expressjs](https://img.shields.io/badge/express.js-404D59?&logo=express&logoColor=%2361DAFB)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?&logo=mui&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?&logo=ant-design&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?&logo=socket.io&badgeColor=010101)
+![JSON Web Tokens](https://img.shields.io/badge/-JWT-000000?&logo=json-web-tokens&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?&logo=heroku)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?&logo=figma&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?&logo=visual-studio-code&logoColor=white)
 
 ---
 
 <br />
 
 ## Technologies I want to explore :
-![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat-square&logo=strapi&logoColor=white)
+![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=amazon-aws)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&logo=redis&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?&logo=chakraui&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?&logo=strapi&logoColor=white)
 ---
 
 ### GitHub Streak :
