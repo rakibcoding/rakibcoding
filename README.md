@@ -6,7 +6,7 @@ I’m currently working on something Cool and also a full-stack web developer wi
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on something Cool.
+- 🔭 I’m currently working on with React | NextJS | Typescript | Node.
 - 🌱 I’m currently learning advance Python
 - 💬 Ask me about (https://github.com/Rakib-Coder00/Rakib-Coder00/issues)
 - 📧 How to reach me : rakibh.dev@gmail.com
