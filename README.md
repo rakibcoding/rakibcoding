@@ -8,12 +8,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/Z8k9Dvn/prof-img.gif">
 <!-- <img align="right" width="200" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" /> -->
-<!-- I’m currently working on something Cool and also a full-stack web developer with hands-on experience in the MERN stack. -->
 
 I'm a dedicated web developer who loves to build modern, user-friendly web applications. With experience in both front-end and back-end development.
 ### About Personal Stuffs:
 
-- 🔭 I’m currently working on with React | NextJS | Typescript | Node.
+- 🔭 I’m currently working on with React | Next | Typescript | Node.
 - 🌱 I’m currently learning advance Python
 - 💬 Ask me about (https://github.com/Rakib-Coder00/Rakib-Coder00/issues)
 - 📧 How to reach me : rakibh.dev@gmail.com
