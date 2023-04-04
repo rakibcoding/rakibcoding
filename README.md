@@ -26,9 +26,6 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 </a>
 
 <!-- ![](https://i.imgur.com/AISkwEs.png) -->
-<br />
-
----
 
 ### Connect with me :
 
