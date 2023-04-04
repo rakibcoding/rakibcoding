@@ -1,5 +1,4 @@
-### Hi there👋 
-I'm  [Rakib](https://rakibdev.netlify.app/).
+### Hi there👋 I'm  [Rakib](https://rakibdev.netlify.app/).
 
 
 
@@ -9,7 +8,7 @@ I'm  [Rakib](https://rakibdev.netlify.app/).
 <!-- <img align="right" width="200" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" /> -->
 <!-- I’m currently working on something Cool and also a full-stack web developer with hands-on experience in the MERN stack. -->
 
-I'm a web developer with a passion for building efficient, scalable, and maintainable web applications using React, Next.js, and Node.js With a strong foundation in front-end development, I specialize in creating interactive and responsive user interfaces.Feel free to check out my projects here on GitHub and don't hesitate to reach out if you want to collaborate or have any queries.
+I'm a dedicated web developer who loves to build modern, user-friendly web applications. With experience in both front-end and back-end development, I have a solid understanding of the full web development stack.Feel free to check out my projects here on GitHub and don't hesitate to reach out if you want to collaborate or have any queries.
 
 
 ### About Personal Stuffs:
