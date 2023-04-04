@@ -1,8 +1,10 @@
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
+
+
 ### Hi there👋 I'm  [Rakib](https://rakibdev.netlify.app/).
-
-
-
-
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/Z8k9Dvn/prof-img.gif">
 <!-- <img align="right" width="200" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" /> -->
@@ -19,12 +21,14 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 - 📧 How to reach me : rakibh.dev@gmail.com
 - 🥅 2023 Goals: Learn more about web3 & Blockchain
 - ⚡ Fun fact :  I love to play Valorant. :)
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
 
 <!-- ![](https://i.imgur.com/AISkwEs.png) -->
 <br />
 
 ---
-
 
 ### Connect with me :
 
