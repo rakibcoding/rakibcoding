@@ -1,9 +1,9 @@
 
-<a href="#">
+<!-- <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
-
+ -->
 ### Hi there👋 I'm  [Rakib](https://rakibdev.netlify.app/).
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/Z8k9Dvn/prof-img.gif">
