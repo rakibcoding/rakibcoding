@@ -16,7 +16,7 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 - 🌱 I’m currently learning advance Python
 - 💬 Ask me about (https://github.com/Rakib-Coder00/Rakib-Coder00/issues)
 - 📧 How to reach me : rakibh.dev@gmail.com
-- 🥅 2023 Goals: Learn more about web3 & Blockchain
+- 🥅 2023 Goals: Learn more about python 3.11
 - ⚡ Fun fact :  I love to play Valorant. :)
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
