@@ -76,6 +76,7 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Prisma-2D3748.svg?&logo=Prisma&logoColor=white)
 
 ---
 
