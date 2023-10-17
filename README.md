@@ -93,6 +93,7 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?&logo=chakraui&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?&logo=strapi&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white)
+
 ---
 
 ### GitHub Streak :
