@@ -4,7 +4,7 @@
 </a>
 
  -->
-### Hi there👋 I'm  [Rakib](https://rakibdev.netlify.app/).
+### Hi there👋 I'm  [Rakib](https://rakibdev.vercel.app/).
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/Z8k9Dvn/prof-img.gif">
 <!-- <img align="right" width="200" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" /> -->
