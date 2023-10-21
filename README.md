@@ -79,7 +79,6 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?&logo=visual-studio-code&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Prisma-2D3748.svg?&logo=Prisma&logoColor=white)
 
----
 
 <br />
 
@@ -95,7 +94,6 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?&logo=strapi&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white)
 
----
 
 <!-- ### GitHub Streak : -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rakib-Coder00&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
@@ -118,18 +116,32 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 #
 
 <!-- <div align="center"> -->
-  <a href="https://github.com/Rakib-Coder00">
+  <!-- <a href="https://github.com/Rakib-Coder00"> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakib-Coder00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rakib-Coder00&layout=compact&langs_count=7&theme=dracula"/>
+  <!-- <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rakib-Coder00&layout=compact&langs_count=7&theme=dracula"/> -->
 <!-- </div> -->
 
 <!-- <div align="center"> -->
-  <a href="https://github.com/Rakib-Coder00">
+  <!-- <a href="https://github.com/Rakib-Coder00"> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakib-Coder00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rakib-Coder00&layout=compact&langs_count=7&theme=dracula"/>
+  <!-- <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rakib-Coder00&layout=compact&langs_count=7&theme=dracula"/> -->
 <!-- </div> -->
 
----
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>Github State : </strong>
+</summary>
+<br/>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rakib-Coder00&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Coder00&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</details>
+<br/>
+
+#
 
 ## Support :
 👍🏻 If you're using any of these project & happy with it or you appreciate what I do and wish to support my work, you can consider by 
