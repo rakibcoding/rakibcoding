@@ -66,6 +66,7 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 ![Expressjs](https://img.shields.io/badge/express.js-404D59?&logo=express&logoColor=%2361DAFB)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?&logo=mui&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?&logo=ant-design&logoColor=white)
+![DaiseyUI](https://img.shields.io/badge/DaisyUI-5A0EF8.svg?logo=DaisyUI&logo=DaisyUI&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?&logo=socket.io&badgeColor=010101)
