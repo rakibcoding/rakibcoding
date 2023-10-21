@@ -31,6 +31,7 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
   <a href="mailto:rakibh.dev@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/imrakibhassan/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://rakibdev.vercel.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Rakib-Coder00&style=flat&color=blue"/> • 
 <!--   <a href="https://twitter.com/RakibHBappy" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a> -->
 <!--   <a href="https://www.instagram.com/rakibhbappy/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
 </p>
@@ -165,8 +166,9 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 
 
 <!-- ![Profile views](https://gpvc.arturio.dev/Rakib-Coder00) -->
-![Profile views](https://komarev.com/ghpvc/?username=Rakib-Coder00)
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=Rakib-Coder00) -->
 
-![footer](src/footer.webp)
+
+![footer](img/footer.webp)
 
 
