@@ -97,10 +97,17 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 
 ---
 
-### GitHub Streak :
+<!-- ### GitHub Streak : -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rakib-Coder00&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 #
+
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>GitHub Streak : </strong>
+</summary>
+<br/>
 
 <p align="center">
   <img height="150" width="150" src="img/left.webp"/>
