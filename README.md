@@ -10,7 +10,7 @@
 <!-- <img align="right" width="200" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" /> -->
 
 I'm a dedicated web developer who loves to build modern, user-friendly web applications. With experience in both front-end and back-end development.
-### About Personal Stuffs:
+<strong> About Personal Stuffs: </strong>
 
 - 🔭 I’m currently working on with React | Next | Typescript | Node.
 - 🌱 I’m currently learning advance Python
@@ -24,14 +24,14 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 
 <!-- ![](https://i.imgur.com/AISkwEs.png) -->
 
-### Connect with me :
+<strong> Connect with me :  </strong>
 
 <p align="center">
   <a href="https://www.facebook.com/RakibDevOfficial" target="_blank"><img height="25" src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="mailto:rakibh.dev@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/imrakibhassan/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://rakibdev.vercel.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Rakib-Coder00&style=flat&color=blue"/> • 
+  <img height="25" alt = "profile views" src="https://komarev.com/ghpvc/?username=Rakib-Coder00&style=flat&color=blue"/> • 
 <!--   <a href="https://twitter.com/RakibHBappy" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a> -->
 <!--   <a href="https://www.instagram.com/rakibhbappy/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
 </p>
@@ -53,7 +53,7 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 [![website](./img/instagram-light.svg)](https://www.instagram.com/rakib_xeta/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/rakib_xeta/#gh-dark-mode-only) -->
 
-## My tech stack :
+<strong> My tech stack : </strong>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=white)
@@ -83,7 +83,7 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 
 <br />
 
-## Technologies I want to explore :
+<strong> Technologies I want to explore : </strong>
 ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white)
@@ -127,7 +127,7 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakib-Coder00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
   <!-- <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rakib-Coder00&layout=compact&langs_count=7&theme=dracula"/> -->
 <!-- </div> -->
-
+#
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -141,16 +141,16 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 </p>
 </details>
 <br/>
-
 #
 
-## Support :
+<strong> Support : </strong>
 👍🏻 If you're using any of these project & happy with it or you appreciate what I do and wish to support my work, you can consider by 
 - Support To Buy Ko-fi 🍵
 - Buy Me A Coffee ☕️
 - Become a Patreon 💥
-<div align='center'>
 
+
+<div align='center'>
  [![](https://img.shields.io/badge/Ko_fi-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white "Support To Buy Ko-fi")](https://ko-fi.com/rakibhassan)  [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black "Buy Me A Coffee")](https://buymeacoffee.com/rakibhassan)  [![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=Patreon&logoColor=white "Become a Patreon")](https://patreon.com/rakibhassan)
 
 </div>
@@ -161,14 +161,10 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 ⭐️ Starring & Sharing the project is also appreciated. Thanks! ❤️
 
 </div>
-
 #
-
 
 <!-- ![Profile views](https://gpvc.arturio.dev/Rakib-Coder00) -->
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=Rakib-Coder00) -->
 
 
 ![footer](img/footer.webp)
-
-
