@@ -116,6 +116,12 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rakib-Coder00&layout=compact&langs_count=7&theme=dracula"/>
 <!-- </div> -->
 
+<!-- <div align="center"> -->
+  <a href="https://github.com/Rakib-Coder00">
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakib-Coder00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rakib-Coder00&layout=compact&langs_count=7&theme=dracula"/>
+<!-- </div> -->
+
 ---
 
 ## Support :
