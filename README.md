@@ -144,6 +144,8 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 <br/>
 
 #
+  
+<!-- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](img/github-contribution-grid-snake.svg) -->
 
 ## Support :
 👍🏻 If you're using any of these project & happy with it or you appreciate what I do and wish to support my work, you can consider by 
@@ -168,6 +170,7 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 <!-- ![Profile views](https://gpvc.arturio.dev/Rakib-Coder00) -->
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=Rakib-Coder00) -->
   <!-- <img height="25" alt = "profile views" src="https://komarev.com/ghpvc/?username=Rakib-Coder00&style=flat&color=blue"/> •  -->
+<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-1473-blue) -->
 
 
 ![footer](img/footer.webp)
