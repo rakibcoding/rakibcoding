@@ -164,12 +164,13 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 ⭐️ Starring & Sharing the project is also appreciated. Thanks! ❤️
 
 </div>
-
+  <img height="25" alt = "profile views" src="https://komarev.com/ghpvc/?username=Rakib-Coder00&style=flat&color=blue"/>
+  
 #
 
 <!-- ![Profile views](https://gpvc.arturio.dev/Rakib-Coder00) -->
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=Rakib-Coder00) -->
-  <!-- <img height="25" alt = "profile views" src="https://komarev.com/ghpvc/?username=Rakib-Coder00&style=flat&color=blue"/> •  -->
+
 <!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-1473-blue) -->
 
 
