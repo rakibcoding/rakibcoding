@@ -10,7 +10,7 @@
 <!-- <img align="right" width="200" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" /> -->
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/> -->
 
-I'm a dedicated web developer who loves to build modern, user-friendly web applications. With experience in both front-end and back-end development.
+I'm a passionate web developer with a strong commitment to crafting cutting-edge, user-centric web applications. My expertise spans both the front-end and back-end realms of development.
 
 ### About Personal Stuffs:
 
@@ -33,26 +33,8 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
   <a href="mailto:rakibh.dev@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/imrakibhassan/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://rakibdev.vercel.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-<!--   <a href="https://twitter.com/RakibHBappy" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a> -->
-<!--   <a href="https://www.instagram.com/rakibhbappy/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
 </p>
 
-
-<!-- [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCYQDotJpe0_o3XSIBc-baWw#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCYQDotJpe0_o3XSIBc-baWw#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/WebdevRakib#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/WebdevRakib#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rakib-dev/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rakib-dev/#gh-dark-mode-only)
-&nbsp;&nbsp;
-
-[![website](./img/instagram-light.svg)](https://www.instagram.com/rakib_xeta/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/rakib_xeta/#gh-dark-mode-only) -->
 
 ## My tech stack :
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
@@ -136,10 +118,6 @@ I'm a dedicated web developer who loves to build modern, user-friendly web appli
 </summary>
 <br/>
 
-<!-- <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rakib-Coder00&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Coder00&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</p> -->
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rakib-Coder00&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Coder00&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
