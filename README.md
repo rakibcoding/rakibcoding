@@ -234,6 +234,14 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+    <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>Prettier
+    </td>
+    <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>EsLint
+    </td>
  </tr>
 </table>
 <br><br>
