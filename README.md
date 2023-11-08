@@ -18,7 +18,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 - 🌱 I’m currently learning advance Python
 - 💬 Ask me about (https://github.com/Rakib-Coder00/Rakib-Coder00/issues)
 - 📧 How to reach me : rakibh.dev@gmail.com
-- 🥅 2023 Goals: Learn more about python 3.11
+- 🥅 2023 Goals: Learn more about python 3.12
 - ⚡ Fun fact :  I love to play Valorant. :)
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
@@ -43,6 +43,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black)
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?&logo=next.js)
@@ -70,7 +71,6 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 ## Technologies I want to explore :
 ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)
