@@ -31,7 +31,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <p align="center">
   <a href="https://www.facebook.com/RakibDevOfficial" target="_blank"><img height="25" src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="mailto:rakibh.dev@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/imrakibhassan/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rakibdev/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://rakibdev.vercel.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
 
@@ -59,6 +59,8 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?&logo=heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?&logo=Vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Render-46E3B7.svg?&logo=Render&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?&logo=visual-studio-code&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Prisma-2D3748.svg?&logo=Prisma&logoColor=white)
