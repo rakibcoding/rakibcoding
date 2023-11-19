@@ -8,10 +8,11 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 ### About Personal Stuffs:
 
 - 🔭 I’m currently working on with React | Next | Typescript | Node.
-- 🌱 I’m currently learning advance Python
+- 🌱 I’m currently trying to develop impactful web apps.
 - 💬 Ask me about (https://github.com/Rakib-Coder00/Rakib-Coder00/issues)
 - 📧 How to reach me : rakibh.dev@gmail.com
-- 🥅 2023 Goals :  Trying to develop impactful web apps.
+- 🥅 2023 Goals :  learning advance Python.
+- ⚡ Fun fact :  I love to play Valorant. :) 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
@@ -56,7 +57,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)
 
-
+<br/>
 
 <details open="">
 <summary>
