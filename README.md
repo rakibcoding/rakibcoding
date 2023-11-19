@@ -56,7 +56,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)
-
+#
 <br/>
 
 <details open="">
@@ -82,7 +82,10 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
      <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rakib-Coder00&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 </details>
+
+#
 <br/>
+
 
 ## Support :
 👍🏻 If you're using any of these project & happy with it or you appreciate what I do and wish to support my work, you can consider by 
