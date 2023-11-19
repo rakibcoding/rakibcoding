@@ -18,25 +18,23 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 - 🌱 I’m currently learning advance Python
 - 💬 Ask me about (https://github.com/Rakib-Coder00/Rakib-Coder00/issues)
 - 📧 How to reach me : rakibh.dev@gmail.com
-- 🥅 2023 Goals: Learn more about python 3.12
-- ⚡ Fun fact :  I love to play Valorant. :)
+- 🥅 2023 Goals :  Trying to develop impactful web apps.
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
 
-<!-- ![](https://i.imgur.com/AISkwEs.png) -->
-
-### Connect with me :
-
+## 📫 Reach me out :
+<br />
 <p align="center">
+  <a href="https://www.linkedin.com/in/rakibdev/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://www.facebook.com/RakibDevOfficial" target="_blank"><img height="25" src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="mailto:rakibh.dev@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rakibdev/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://rakibdev.vercel.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
 
 
-## My tech stack :
+## 💻 My tech stack :
+<br />
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=white)
@@ -49,42 +47,23 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?&logo=next.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/express.js-404D59?&logo=express&logoColor=%2361DAFB)
-<!-- ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?&logo=mui&logoColor=white) -->
-<!-- ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?&logo=ant-design&logoColor=white) -->
-<!-- ![DaiseyUI](https://img.shields.io/badge/DaisyUI-5A0EF8.svg?logo=DaisyUI&logo=DaisyUI&logoColor=white) -->
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?&logo=socket.io&badgeColor=010101)
 ![JSON Web Tokens](https://img.shields.io/badge/-JWT-000000?&logo=json-web-tokens&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
-<!-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?&logo=heroku) -->
-<!-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase&logoColor=black) -->
-<!-- ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?&logo=Vercel&logoColor=white) -->
-<!-- ![Vercel](https://img.shields.io/badge/Render-46E3B7.svg?&logo=Render&logoColor=white) -->
-<!-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?&logo=figma&logoColor=white) -->
-<!-- ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?&logo=visual-studio-code&logoColor=white) -->
-<!-- ![Visual Studio Code](https://img.shields.io/badge/Prisma-2D3748.svg?&logo=Prisma&logoColor=white) -->
 
 
+## 💻 Technologies I want to explore :
 <br />
 
-## Technologies I want to explore :
 ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)
-<!-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=amazon-aws) -->
-<!-- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&logo=redis&logoColor=white) -->
-<!-- ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?&logo=chakraui&logoColor=white) -->
-<!-- ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?&logo=strapi&logoColor=white) -->
-<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white) -->
 
 
-<!-- ### GitHub Streak : -->
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rakib-Coder00&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
-
-#
 
 <details open="">
 <summary>
@@ -94,24 +73,9 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <br/>
 
 <p align="center">
-  <!-- <img height="150" width="150" src="img/left.webp"/> -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakib-Coder00&theme=dark&hide_border=true"/>
-  <!-- <img height="150" width="150" src="img/right.webp"/> -->
+   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Rakib-Coder00&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
 </p>
 
-#
-
-<!-- <div align="center"> -->
-  <!-- <a href="https://github.com/Rakib-Coder00"> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakib-Coder00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <!-- <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rakib-Coder00&layout=compact&langs_count=7&theme=dracula"/> -->
-<!-- </div> -->
-
-<!-- <div align="center"> -->
-  <!-- <a href="https://github.com/Rakib-Coder00"> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakib-Coder00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <!-- <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rakib-Coder00&layout=compact&langs_count=7&theme=dracula"/> -->
-<!-- </div> -->
 #
 <details open="">
 <summary>
@@ -121,15 +85,10 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <br/>
 
 <p align="center">
-    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rakib-Coder00&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/> -->
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Coder00&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rakib-Coder00&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 </details>
 <br/>
-
-#
-  
-<!-- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](img/github-contribution-grid-snake.svg) -->
 
 ## Support :
 👍🏻 If you're using any of these project & happy with it or you appreciate what I do and wish to support my work, you can consider by 
@@ -246,18 +205,10 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
     </td>
  </tr>
 </table>
-<br><br>
+<br/>
 
 
 </div>
 
-  
 #
-
-<!-- ![Profile views](https://gpvc.arturio.dev/Rakib-Coder00) -->
-<!-- ![Profile views](https://komarev.com/ghpvc/?username=Rakib-Coder00) -->
-
-<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-1473-blue) -->
-
-
 ![footer](img/footer.webp)
