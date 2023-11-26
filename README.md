@@ -1,6 +1,7 @@
 ### Hi there👋 I'm  [Rakib](https://rakibdev.vercel.app/).
 
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/Z8k9Dvn/prof-img.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://i.ibb.co/Z8k9Dvn/prof-img.gif"> -->
+<a href="https://app.daily.dev/rakibhassan"><img src="https://api.daily.dev/devcards/dd22b92f0fe24a20ba1dbbeeffc35fdb.png?r=g0q" width="400" alt="Rakib Hassan's Dev Card"/></a>
 
 
 I'm a passionate web developer with a strong commitment to crafting cutting-edge, user-centric web applications. My expertise spans both the front-end and back-end realms of development.
