@@ -1,7 +1,7 @@
 ### Hi there👋 I'm  [Rakib](https://rakibdev.vercel.app/).
 
-<!-- <img align="right" alt="Coding" width="400" src="https://i.ibb.co/Z8k9Dvn/prof-img.gif"> -->
-<a  href="https://app.daily.dev/rakibhassan"><img align="right" src="https://api.daily.dev/devcards/dd22b92f0fe24a20ba1dbbeeffc35fdb.png?r=g0q" width="300" alt="Rakib Hassan's Dev Card"/></a>
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/Z8k9Dvn/prof-img.gif">
+<!-- <a  href="https://app.daily.dev/rakibhassan"><img align="right" src="https://api.daily.dev/devcards/dd22b92f0fe24a20ba1dbbeeffc35fdb.png?r=g0q" width="300" alt="Rakib Hassan's Dev Card"/></a> -->
 
 
 I'm a passionate web developer with a strong commitment to crafting cutting-edge, user-centric web applications. My expertise spans both the front-end and back-end realms of development.
@@ -98,7 +98,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
  [![](https://img.shields.io/badge/Ko_fi-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white "Support To Buy Ko-fi")](https://ko-fi.com/rakibhassan)  [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black "Buy Me A Coffee")](https://buymeacoffee.com/rakibhassan)  [![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=Patreon&logoColor=white "Become a Patreon")](https://patreon.com/rakibhassan)
 
 </div> -->
-
+<a  href="https://app.daily.dev/rakibhassan"><img align="center" src="https://api.daily.dev/devcards/dd22b92f0fe24a20ba1dbbeeffc35fdb.png?r=g0q" width="300" alt="Rakib Hassan's Dev Card"/></a>
 <div align="center">
 
 <!-- ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜! -->
