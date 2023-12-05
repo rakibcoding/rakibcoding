@@ -92,8 +92,9 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
   <strong>Dev State : </strong>
 </summary>
 <br/>
-
-<a  href="https://app.daily.dev/rakibhassan"><img align="center" src="https://api.daily.dev/devcards/dd22b92f0fe24a20ba1dbbeeffc35fdb.png?r=g0q" width="300" alt="Rakib Hassan's Dev Card"/></a>
+<div align="center">
+<a  href="https://app.daily.dev/rakibhassan"><img src="https://api.daily.dev/devcards/dd22b92f0fe24a20ba1dbbeeffc35fdb.png?r=g0q" width="300" alt="Rakib Hassan's Dev Card"/></a>
+</div>
 <div align="center">
 ⭐️ Starring & Sharing the project is also appreciated. Thanks! ❤️
 
