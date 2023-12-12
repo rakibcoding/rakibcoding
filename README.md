@@ -8,12 +8,12 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 ### About Personal Stuffs:
 
-- 🔭 I’m currently working on with React | Next | Typescript | Node.
-- 🌱 I’m currently trying to develop impactful web apps.
-- 💬 Ask me about (https://github.com/RakibHassan01/RakibHassan01/issues)
-- 📧 How to reach me : rakibh.dev@gmail.com
-- 🥅 2023 Goals :  learning advance Python.
-- ⚡ Fun fact :  I love to play Valorant. :) 
+- 🔭 Currently engaged in projects utilizing React,NextJS,NodeJS.
+- 🌱 Passionate about developing impactful web applications that make a difference.
+- 💬 Open to discussions on (https://github.com/RakibHassan01/RakibHassan01/issues)
+- 📧 Reach me at : rakibh.dev@gmail.com
+- 🥅 2024 Goals: Pursuing advanced proficiency in Python.
+- ⚡ Fun fact : I find joy in mastering Valorant in my free time. :) :) 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
