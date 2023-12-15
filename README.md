@@ -8,7 +8,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 ### About Personal Stuffs:
 
-- 🔭 Currently engaged in projects utilizing ReactJS,NextJS,TypeScript and NodeJS.
+- 🔭 Currently engaged in projects utilizing NextJS and TypeScript.
 - 🌱 Passionate about developing impactful web applications that make a difference.
 - 💬  Open to insightful discussions at [GitHub](https://github.com/RakibHassan01/RakibHassan01/issues). 
 - 🥅 2024 Goals  :  Pursuing advanced proficiency in Python.
