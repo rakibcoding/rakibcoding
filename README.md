@@ -17,7 +17,10 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
 
-## 📫 Reach me out :
+<!-- ## 📫 Reach me out : -->
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <br />
 <p align="center">
   <a href="https://www.linkedin.com/in/rakibdev/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
@@ -25,9 +28,11 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
   <a href="mailto:rakibh.dev@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<!--Languages and Tools Section--> 
+<h2 align="center">💻 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 
-## 💻 My tech stack :
-<br />
+<!-- ## 💻 My tech stack : -->
+<!-- <br /> -->
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
@@ -49,33 +54,27 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
 
 
-## 💻 Technologies I want to explore :
-<br />
 
-![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)
-#
-<br/>
-
-<details open="">
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<!-- <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>GitHub Streak : </strong>
-</summary>
+</summary> -->
 <br/>
 
 <p align="center">
    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=RakibHassan01&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
+   
 </p>
 
 #
-<details open="">
+<!-- <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>Github State : </strong>
-</summary>
+</summary> -->
 <br/>
 
 <p align="center">
@@ -97,10 +96,22 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <div align="center">
 ⭐️ Starring & Sharing the project is also appreciated. Thanks! ❤️
 
-#
+<!-- # -->
 </div>
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RakibHassan01&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
+
+---
   <img height="25" alt = "profile views" src="https://komarev.com/ghpvc/?username=Rakib-Coder00&style=flat&color=blue"/>
 
 
 #
 ![footer](img/footer.webp)
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
