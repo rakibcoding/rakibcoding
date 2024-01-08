@@ -1,7 +1,7 @@
 ### Hi there👋 I'm  [Rakib](https://rakibdev.vercel.app/).
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/Z8k9Dvn/prof-img.gif">
-<!-- <a  href="https://app.daily.dev/rakibhassan"><img align="right" src="https://api.daily.dev/devcards/dd22b92f0fe24a20ba1dbbeeffc35fdb.png?r=g0q" width="300" alt="Rakib Hassan's Dev Card"/></a> -->
+
 
 
 I'm a passionate web developer with a strong commitment to crafting cutting-edge, user-centric web applications. My expertise spans both the front-end and back-end realms of development.
@@ -12,15 +12,13 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 - 🌱 Passionate about developing impactful web applications that make a difference.
 - 💬  Open to insightful discussions at [GitHub](https://github.com/RakibHassan01/RakibHassan01/issues). 
 - 🥅 2024 Goals  :  Pursuing advanced proficiency in Python.
-<!-- - ⚡ Fun fact    :  Outside the coding realm, I find joy in the strategic world of Valorant. :) -->
+- ⚡ Fun fact    :  Outside the coding realm, I find joy in the strategic world of Valorant. :)
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
 
-<!-- ## 📫 Reach me out : -->
 <!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+## 📫 Reach me out :
 <br />
 <p align="center">
   <a href="https://www.linkedin.com/in/rakibdev/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
@@ -29,9 +27,9 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 </p>
 
 <!--Languages and Tools Section--> 
-<h2 align="center">💻 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h3>💻 Languages And Tools :</h3> 
 
-<!-- ## 💻 My tech stack : -->
+---
 <br />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
@@ -56,12 +54,11 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-<!-- <details open="">
+<details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>GitHub Streak : </strong>
-</summary> -->
+</summary>
 <br/>
 
 <p align="center">
@@ -70,11 +67,11 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 </p>
 
 #
-<!-- <details open="">
+<details open="">
 <summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>Github State : </strong>
-</summary> -->
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📊</g-emoji>
+  <strong>Github Stats : </strong>
+</summary>
 <br/>
 
 <p align="center">
@@ -84,12 +81,11 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 #
 
-<!-- <details open="">
+<details open="">
 <summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>Dev State : </strong>
-</summary> -->
-<h2 align="center">📊 Dev Sᴛᴀᴛs 📊</h2>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📊</g-emoji>
+  <strong>Dev Stats : </strong>
+</summary>
 <br/>
 <div align="center">
 <a  href="https://app.daily.dev/rakibhassan"><img src="https://api.daily.dev/devcards/dd22b92f0fe24a20ba1dbbeeffc35fdb.png?r=g0q" width="300" alt="Rakib Hassan's Dev Card"/></a>
@@ -101,7 +97,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 </div>
 <br />
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h3>📈 Contribution Graph :</h3>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RakibHassan01&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
@@ -110,9 +106,10 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
   <img height="25" alt = "profile views" src="https://komarev.com/ghpvc/?username=Rakib-Coder00&style=flat&color=blue"/>
 
 
+<!--Footer--> 
 #
 ![footer](img/footer.webp)
-<!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
