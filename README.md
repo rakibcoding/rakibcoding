@@ -97,7 +97,13 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 </div>
 <br />
 <!--Contribution Graph-->
-<h3>📈 Contribution Graph :</h3>
+<!-- <h3>📈 Contribution Graph :</h3> -->
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>Contribution Graph : </strong>
+</summary>
+<br />
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RakibHassan01&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
