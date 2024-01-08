@@ -32,7 +32,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <h2 align="center">💻 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 
 <!-- ## 💻 My tech stack : -->
-<!-- <br /> -->
+<br />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
@@ -84,11 +84,12 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 #
 
-<details open="">
+<!-- <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>Dev State : </strong>
-</summary>
+</summary> -->
+<h2 align="center">📊 Dev Sᴛᴀᴛs 📊</h2>
 <br/>
 <div align="center">
 <a  href="https://app.daily.dev/rakibhassan"><img src="https://api.daily.dev/devcards/dd22b92f0fe24a20ba1dbbeeffc35fdb.png?r=g0q" width="300" alt="Rakib Hassan's Dev Card"/></a>
@@ -98,7 +99,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 <!-- # -->
 </div>
-
+<br />
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
