@@ -13,9 +13,10 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 - 💬  Open to insightful discussions at [GitHub](https://github.com/RakibHassan01/RakibHassan01/issues). 
 - 🥅 2024 Goals  :  Pursuing advanced proficiency in Python.
 - ⚡ Fun fact    :  Outside the coding realm, I find joy in the strategic world of Valorant. :)
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
-</a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
 <!--Contact Section--> 
 ## 📫 Reach me out :
@@ -115,7 +116,5 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <!--Footer--> 
 #
 ![footer](img/footer.webp)
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+
 
