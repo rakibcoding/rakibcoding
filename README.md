@@ -30,7 +30,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <!--Languages and Tools Section--> 
 <h3>💻 Languages And Tools :</h3> 
 
----
+#
 <br />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
@@ -53,9 +53,8 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
 
 
-
+#
 <!--Github stats Table--> 
-<details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>GitHub Streak : </strong>
@@ -68,7 +67,6 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 </p>
 
 #
-<details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📊</g-emoji>
   <strong>Github Stats : </strong>
@@ -82,7 +80,6 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 #
 
-<details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📊</g-emoji>
   <strong>Dev Stats : </strong>
@@ -99,7 +96,6 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <br />
 <!--Contribution Graph-->
 <!-- <h3>📈 Contribution Graph :</h3> -->
-<details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>Contribution Graph : </strong>
