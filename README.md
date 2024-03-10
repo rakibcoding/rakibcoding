@@ -24,7 +24,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <p align="center">
   <a href="https://www.linkedin.com/in/rakibdev/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://www.facebook.com/Rakibstars" target="_blank"><img height="25" src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="mailto:rhbappy456@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:rakibhassantech@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <!--Languages and Tools Section--> 
