@@ -10,7 +10,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 - 🔭 Currently engaged in projects utilizing NextJS and TypeScript.
 - 🌱 Passionate about developing impactful web applications that make a difference.
-- 💬  Open to insightful discussions at [GitHub](https://github.com/RakibHassan01/RakibHassan01/issues). 
+- 💬  Open to insightful discussions at [GitHub](https://github.com/TheRakibHassan/TheRakibHassan/issues). 
 - 🥅 2024 Goals  :  Pursuing advanced proficiency in Python.
 - ⚡ Fun fact    :  Outside the coding realm, I find joy in the strategic world of Valorant. :)
 
@@ -22,9 +22,9 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 ## 📫 Reach me out :
 <br />
 <p align="center">
-  <a href="https://www.linkedin.com/in/rakibdev/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://www.facebook.com/Rakibstars" target="_blank"><img height="25" src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="mailto:rakibhassantech@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/therakibhassan/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/onlyrakibhassan" target="_blank"><img height="25" src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="mailto:rakibh.dev@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <!--Languages and Tools Section--> 
@@ -62,7 +62,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <br/>
 
 <p align="center">
-   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=RakibHassan01&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
+   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TheRakibHassan&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
    
 </p>
 
@@ -74,7 +74,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <br/>
 
 <p align="center">
-     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RakibHassan01&layout=compact&langs_count=7&theme=dracula"/>
+     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheRakibHassan&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 </details>
 
@@ -102,11 +102,11 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 </summary>
 <br />
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RakibHassan01&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheRakibHassan&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 ---
-  <img height="25" alt = "profile views" src="https://komarev.com/ghpvc/?username=Rakib-Coder00&style=flat&color=blue"/>
+  <img height="25" alt = "profile views" src="https://komarev.com/ghpvc/?username=TheRakibHassan&style=flat&color=blue"/>
 
 
 <!--Footer--> 
