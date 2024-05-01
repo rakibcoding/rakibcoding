@@ -18,8 +18,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
----
-  <!-- <img height="25" alt = "profile views" src="https://komarev.com/ghpvc/?username=TheRakibHassan&style=flat&color=blue"/> -->
+
 
   ![profile count](https://komarev.com/ghpvc/?username=TheRakibHassan&color=blue)&nbsp;
 [![GitHub TheRakibHassan](https://img.shields.io/github/followers/TheRakibHassan?label=follow&style=social)](https://github.com/TheRakibHassan)&nbsp;
