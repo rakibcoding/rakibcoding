@@ -50,12 +50,12 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?&logo=Node.js&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/express.js-404D59?&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?&logo=socket.io&badgeColor=010101)
-![JSON Web Tokens](https://img.shields.io/badge/-JWT-000000?&logo=json-web-tokens&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
+<!-- ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux) -->
+<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql&logoColor=white) -->
+<!-- ![Socket.io](https://img.shields.io/badge/Socket.io-black?&logo=socket.io&badgeColor=010101) -->
+<!-- ![JSON Web Tokens](https://img.shields.io/badge/-JWT-000000?&logo=json-web-tokens&logoColor=white) -->
+<!-- ![Git](https://img.shields.io/badge/-Git-black?&logo=git) -->
+<!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) -->
 
 
 #
