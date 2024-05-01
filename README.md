@@ -18,13 +18,19 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
+---
+  <!-- <img height="25" alt = "profile views" src="https://komarev.com/ghpvc/?username=TheRakibHassan&style=flat&color=blue"/> -->
+
+  ![profile count](https://komarev.com/ghpvc/?username=TheRakibHassan&color=blue)&nbsp;
+[![GitHub TheRakibHassan](https://img.shields.io/github/followers/TheRakibHassan?label=follow&style=social)](https://github.com/TheRakibHassan)&nbsp;
 <!--Contact Section--> 
 ## 📫 Reach me out :
 <br />
 <p align="center">
-  <a href="https://www.linkedin.com/in/therakibhassan/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://www.facebook.com/therakibhassan1" target="_blank"><img height="25" src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="mailto:rakibh.dev@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<a href="https://www.linkedin.com/in/therakibhassan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/rakibcodes/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="mailto:rakibh.dev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 </p>
 
 <!--Languages and Tools Section--> 
@@ -105,8 +111,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheRakibHassan&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
----
-  <img height="25" alt = "profile views" src="https://komarev.com/ghpvc/?username=TheRakibHassan&style=flat&color=blue"/>
+
 
 
 <!--Footer--> 
