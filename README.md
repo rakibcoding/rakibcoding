@@ -19,7 +19,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 </p>
 
   ![profile count](https://komarev.com/ghpvc/?username=TheRakibHassan&color=blue)&nbsp;
-[![GitHub TheRakibHassan](https://img.shields.io/github/followers/TheRakibHassan?label=follow&style=social)](https://github.com/TheRakibHassan)&nbsp;
+[![GitHub](https://img.shields.io/github/followers/TheRakibHassan?label=follow&style=social)](https://github.com/TheRakibHassan)&nbsp;
 
 
 <!--Contact Section--> 
@@ -27,7 +27,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <br />
 <p align="center">
   <a href="https://www.linkedin.com/in/therakibhassan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-  <a href="https://instagram.com/rakibcodes/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+  <!-- <a href="https://instagram.com/rakibcodes/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp; -->
   <a href="mailto:rakibh.dev@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 </p>
 
