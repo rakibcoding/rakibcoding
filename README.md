@@ -26,9 +26,8 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 ## 📫 Reach me out :
 <br />
 <p align="center">
-  <a href="https://www.linkedin.com/in/therakibhassan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-  <!-- <a href="https://instagram.com/rakibcodes/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp; -->
-  <a href="mailto:rakibh.dev@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+   <a href="mailto:rakibh.dev@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/therakibhassan/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 </p>
 
 <!--Languages and Tools Section--> 
