@@ -10,7 +10,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 - 🔭 Currently engaged in projects utilizing NextJS and TypeScript.
 - 🌱 Passionate about developing impactful web applications that make a difference.
-- 💬  Open to insightful discussions at [GitHub](https://github.com/TheRakibHassan/TheRakibHassan/issues). 
+- 💬  Open to insightful discussions at [GitHub](https://github.com/rakibcoding/rakibcoding/issues). 
 - 🥅 2024 Goals  :  Pursuing advanced proficiency in Python.
 <!-- - ⚡ Fun fact    :  Outside the coding realm, I find joy in the strategic world of Valorant. :) -->
 
@@ -18,8 +18,8 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
-  ![profile count](https://komarev.com/ghpvc/?username=TheRakibHassan&color=blue)&nbsp;
-[![GitHub](https://img.shields.io/github/followers/TheRakibHassan?label=follow&style=social)](https://github.com/TheRakibHassan)&nbsp;
+  ![profile count](https://komarev.com/ghpvc/?username=rakibcoding&color=blue)&nbsp;
+[![GitHub](https://img.shields.io/github/followers/rakibcoding?label=follow&style=social)](https://github.com/rakibcoding)&nbsp;
 
 
 <!--Contact Section--> 
@@ -65,7 +65,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <br/>
 
 <p align="center">
-   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TheRakibHassan&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
+   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=rakibcoding&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
    
 </p>
 
@@ -77,7 +77,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <br/>
 
 <p align="center">
-     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheRakibHassan&layout=compact&langs_count=7&theme=dracula"/>
+     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rakibcoding&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 </details>
 
@@ -105,7 +105,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 </summary>
 <br />
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheRakibHassan&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibcoding&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 
