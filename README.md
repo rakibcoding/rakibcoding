@@ -1,4 +1,4 @@
-### Hi there👋 I'm  [Rakib](https://rakibdev.vercel.app/). Welcome to my GitHub profile.
+### Hi there👋 I'm  [Rakib Hassan](https://rakibdev.vercel.app/). I'm a Full Stack Developer.
 
 <!-- <img align="right" alt="Coding" width="400" src="https://i.ibb.co/Z8k9Dvn/prof-img.gif"> -->
 
