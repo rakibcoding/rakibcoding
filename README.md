@@ -1,5 +1,5 @@
 ### Hi there👋 I'm  [Rakib Hassan](https://rakibdev.vercel.app/).
-###  I'm a Full Stack Developer.
+<!-- ###  I'm a Full Stack Developer. -->
 
 <!-- <img align="right" alt="Coding" width="400" src="https://i.ibb.co/Z8k9Dvn/prof-img.gif"> -->
 
@@ -7,13 +7,13 @@
 <!-- 
 I'm a passionate web developer with a strong commitment to crafting cutting-edge, user-centric web applications. My expertise spans both the front-end and back-end realms of development. -->
 
-<!-- ### About Personal Stuffs:
+### About Personal Stuffs:
 
 - 🔭 Currently engaged in projects utilizing NextJS and TypeScript.
 - 🌱 Passionate about developing impactful web applications that make a difference.
 - 💬  Open to insightful discussions at [GitHub](https://github.com/rakibcoding/rakibcoding/issues). 
-- 🥅 2024 Goals  :  Pursuing advanced proficiency in Python. -->
-<!-- - ⚡ Fun fact    :  Outside the coding realm, I find joy in the strategic world of Valorant. :) -->
+- 🥅 2024 Goals  :  Pursuing advanced proficiency in Python.
+- ⚡ Fun fact    :  Outside the coding realm, I find joy in the strategic world of Valorant. :)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
