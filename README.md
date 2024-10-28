@@ -13,7 +13,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 - 🌱 Passionate about developing impactful web applications that make a difference.
 - 💬  Open to insightful discussions at [GitHub](https://github.com/rakibcoding/rakibcoding/issues). 
 - 🥅 2024 Goals  :  Pursuing advanced proficiency in Python.
-- ⚡ Fun fact    :  Outside the coding realm, I find joy in the strategic world of Valorant. :)
+<!-- - ⚡ Fun fact    :  Outside the coding realm, I find joy in the strategic world of Valorant. :) -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
