@@ -37,10 +37,10 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 #
 <br />
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?&logo=tailwind-css&logoColor=white)
+<!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white) -->
+<!-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3) -->
+<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=white) -->
+<!-- ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?&logo=tailwind-css&logoColor=white) -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black)
