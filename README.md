@@ -16,6 +16,13 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 - ⚡ Fun fact    :  My favorite framework is React⚛️.
 <!-- - ⚡ Fun fact    :  Outside the coding realm, I find joy in the strategic world of Valorant. :) -->
 
+### 📫 Reach me out :
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rakibcoding/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:rakibcoding@gmail.com)
+
+<!-- <br/><br/> -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
@@ -25,12 +32,12 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 
 <!--Contact Section--> 
-## 📫 Reach me out :
-<br />
+<!-- ## 📫 Reach me out : -->
+<!-- <br />
 <p align="center">
    <a href="mailto:rakibh.dev@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/rakibcoding/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-</p>
+</p> -->
 
 <!--Languages and Tools Section--> 
 <h3>💻 Languages And Tools :</h3> 
