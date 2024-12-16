@@ -9,7 +9,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 ### About Personal Stuffs:
 - 👩🏻 I'm Full-Stack Developer;
-- 🔭 Currently engaged in projects utilizing ReactJS and NextJS.
+- 🔭 Designing modern web applications with ReactJS and Next.js
 - 🌱 Passionate about developing impactful web applications that make a difference.
 - 💬 Ask me about anything, I am happy to help.
 - 🥅 2025 Goals  :  Pursuing advanced proficiency in Python.
@@ -29,15 +29,6 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
   ![profile count](https://komarev.com/ghpvc/?username=rakibcoding&color=blue)&nbsp;
 [![GitHub](https://img.shields.io/github/followers/rakibcoding?label=follow&style=social)](https://github.com/rakibcoding)&nbsp;
-
-
-<!--Contact Section--> 
-<!-- ## 📫 Reach me out : -->
-<!-- <br />
-<p align="center">
-   <a href="mailto:rakibh.dev@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/rakibcoding/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-</p> -->
 
 <!--Languages and Tools Section--> 
 <h3>💻 Languages And Tools :</h3> 
