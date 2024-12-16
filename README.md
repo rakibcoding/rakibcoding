@@ -9,7 +9,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 ### About Personal Stuffs:
 - 👩🏻 I'm Full-Stack Developer;
-- 🔭 Currently engaged in projects utilizing NextJS and TypeScript.
+- 🔭 Currently engaged in projects utilizing ReactJS and NextJS.
 - 🌱 Passionate about developing impactful web applications that make a difference.
 - 💬 Ask me about anything, I am happy to help.
 - 🥅 2025 Goals  :  Pursuing advanced proficiency in Python.
@@ -45,24 +45,16 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 #
 <!-- <br /> -->
 
-<!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white) -->
-<!-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3) -->
-<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=white) -->
-<!-- ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?&logo=tailwind-css&logoColor=white) -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?&logo=react&logoColor=black)
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?&logo=next.js)
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?&logo=Node.js&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/express.js-404D59?&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb&logoColor=white)
-<!-- ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux) -->
-<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql&logoColor=white) -->
-<!-- ![Socket.io](https://img.shields.io/badge/Socket.io-black?&logo=socket.io&badgeColor=010101) -->
-<!-- ![JSON Web Tokens](https://img.shields.io/badge/-JWT-000000?&logo=json-web-tokens&logoColor=white) -->
-<!-- ![Git](https://img.shields.io/badge/-Git-black?&logo=git) -->
-<!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) -->
+
 
 
 #
