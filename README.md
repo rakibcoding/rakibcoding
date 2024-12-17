@@ -8,7 +8,7 @@
 I'm a passionate web developer with a strong commitment to crafting cutting-edge, user-centric web applications. My expertise spans both the front-end and back-end realms of development. -->
 
 ### About Personal Stuffs:
-- 👩🏻 I'm Full-Stack Developer;
+- 👩🏻 I'm Full-Stack Developer.
 - 🔭 Designing modern web applications with ReactJS and Next.js
 - 🌱 Passionate about developing impactful web applications that make a difference.
 - 💬 Ask me about anything, I am happy to help.
@@ -101,10 +101,6 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 </div>
 
 
-
-
 <!--Footer--> 
 #
 ![footer](img/footer.webp)
-
-
