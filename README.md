@@ -82,6 +82,10 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <a  href="https://app.daily.dev/rakibhassan"><img src="https://api.daily.dev/devcards/dd22b92f0fe24a20ba1dbbeeffc35fdb.png?r=g0q" width="300" alt="Rakib Hassan's Dev Card"/></a>
 </div>
 <div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
 ⭐️ Starring & Sharing the project is also appreciated. Thanks! ❤️
 
 <!-- # -->
@@ -101,6 +105,3 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <!--Footer--> 
 <!-- # -->
 <!-- ![footer](img/footer.webp) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
