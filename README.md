@@ -1,6 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=RakibCoding&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
 ### Hi there👋 I'm  [Rakib](https://rakibdev.vercel.app/) :]
 <!-- ###  I'm a Full Stack Developer. -->
-### Welcome to my GitHub!
+<!-- ### Welcome to my GitHub! -->
 <!-- <img align="right" alt="Coding" width="400" src="https://i.ibb.co/Z8k9Dvn/prof-img.gif"> -->
 
 
@@ -12,8 +14,8 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 - 🔭 Designing modern web applications with ReactJS and Next.js
 - 🌱 Passionate about developing impactful web applications that make a difference.
 - 💬 Ask me about anything, I am happy to help.
-- 🥅 2025 Goals  :  Pursuing advanced proficiency in Python.
-- ⚡ Fun fact    :  My favorite framework is React⚛️.
+- ⚡ Fun fact  I love listening to music.
+<!-- - 🥅 2025 Goals  :  Pursuing advanced proficiency in Python. -->
 <!-- - ⚡ Fun fact    :  Outside the coding realm, I find joy in the strategic world of Valorant. :) -->
 
 ### 📫 Reach me out :
@@ -28,10 +30,11 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 [![GitHub](https://img.shields.io/github/followers/rakibcoding?label=follow&style=social)](https://github.com/rakibcoding)&nbsp;
 
 <!--Languages and Tools Section--> 
-<h3>💻 Languages And Tools :</h3> 
+<!-- <h3>💻 Languages And Tools :</h3>  -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <!-- # -->
-<br />
+<!-- <br /> -->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
