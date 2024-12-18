@@ -108,3 +108,9 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
+<!-- <div align="center">
+  <img align="stretch" src="https://github-widgetbox.vercel.app/api/profile?username=RakibCoding&data=followers,repositories,stars,commits&theme=onedark&title_color=000000">
+</div> -->
+
+<!-- <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=RakibCoding&label=Profile%20Views&color=6&pretty=false"/></a> -->
