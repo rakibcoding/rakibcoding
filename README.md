@@ -23,9 +23,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 <!-- <br/><br/> -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
   ![profile count](https://komarev.com/ghpvc/?username=rakibcoding&color=blue)&nbsp;
 [![GitHub](https://img.shields.io/github/followers/rakibcoding?label=follow&style=social)](https://github.com/rakibcoding)&nbsp;
@@ -100,7 +98,9 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibcoding&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
-
 <!--Footer--> 
-#
-![footer](img/footer.webp)
+<!-- # -->
+<!-- ![footer](img/footer.webp) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
