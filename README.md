@@ -18,10 +18,9 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 ### 📫 Reach me out :
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rakibcoding/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:rakibcoding@gmail.com)
-
-<!-- <br/><br/> -->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rakibcoding/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:rakibcoding@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-blue?&logo=discord&logoColor=white)](https://discord.com/users/rakib_hassan)
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -31,8 +30,8 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <!--Languages and Tools Section--> 
 <h3>💻 Languages And Tools :</h3> 
 
-#
-<!-- <br /> -->
+<!-- # -->
+<br />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
