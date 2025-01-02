@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=RakibCoding&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=RakibCoding&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>  -->
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header">
 
 ### Hi there👋 I'm  [Rakib](https://rakibdev.vercel.app/) :]
 <!-- ###  I'm a Full Stack Developer. -->
