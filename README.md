@@ -59,16 +59,16 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 #
 <!-- Github stats Table  -->
-<summary>
+<!-- <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>GitHub Streak : </strong>
 </summary>
-<br/>
-
+<br/> -->
+<!-- 
 <p align="center">
    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=rakibcoding&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
     
-</p>
+</p> -->
 
 #
 <summary>
