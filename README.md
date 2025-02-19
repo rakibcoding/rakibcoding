@@ -1,7 +1,15 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=RakibCoding&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>  -->
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B13D6&height=120&section=header"/>
+<div align="center">
+ 
+![Rakib GitHub stats](https://readme-typing-svg.demolab.com/?font=Arial&weight=900&size=30&pause=2000&color=6B13D6&vCenter=true&random=false&width=435&height=35&lines=Hello!+I+am+Rakib+Hassan+👋)
 
-### Hi there👋 I'm  [Rakib](https://rakibcoding.vercel.app/) :]
+</div>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
+<!-- <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header"> -->
+
+<!-- ### Hi there👋 I'm  [Rakib](https://rakibcoding.vercel.app/) :] -->
 <!-- ###  I'm a Full Stack Developer. -->
 <!-- ### Welcome to my GitHub! -->
 <!-- <img align="right" alt="Coding" width="400" src="https://i.ibb.co/Z8k9Dvn/prof-img.gif"> -->
@@ -49,9 +57,9 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 
 
-<!-- # -->
-<!--Github stats Table--> 
-<!-- <summary>
+#
+<!-- Github stats Table  -->
+<summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>GitHub Streak : </strong>
 </summary>
@@ -59,7 +67,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 <p align="center">
    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=rakibcoding&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
-    -->
+    
 </p>
 
 #
