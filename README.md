@@ -19,11 +19,11 @@
 I'm a passionate web developer with a strong commitment to crafting cutting-edge, user-centric web applications. My expertise spans both the front-end and back-end realms of development. -->
 
 ### About Personal Stuffs:
-- 👩🏻 I'm Full-Stack Developer.
-- 🔭 Designing modern web applications with Python, Next.js, Express.js, and MongoDB.
-- 🌱 Passionate about developing impactful web applications that make a difference.
-- 💬 Ask me about anything, I am happy to help.
-- ⚡ Fun fact  I love listening to music.
+- 👨🏻‍💻 Full-Stack Developer focused on Python and the MERN stack (Next.js, Express.js, MongoDB).
+- 🔭  Currently building scalable web apps and always exploring new tech.
+- 🌱  Passionate about creating web solutions that solve real-world problems.
+- 💬 Open to collaborations and happy to discuss tech, projects, or anything interesting!
+- ⚡ Fun fact: Music keeps me coding for hours.
 <!-- - 🥅 2025 Goals  :  Pursuing advanced proficiency in Python. -->
 <!-- - ⚡ Fun fact    :  Outside the coding realm, I find joy in the strategic world of Valorant. :) -->
 
