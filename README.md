@@ -20,7 +20,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 ### About Personal Stuffs:
 - 👩🏻 I'm Full-Stack Developer.
-- 🔭 Designing modern web applications with ReactJS and Next.js
+- 🔭 Designing modern web applications with Python, Next.js, Express.js, and MongoDB.
 - 🌱 Passionate about developing impactful web applications that make a difference.
 - 💬 Ask me about anything, I am happy to help.
 - ⚡ Fun fact  I love listening to music.
