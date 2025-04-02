@@ -19,7 +19,8 @@
 I'm a passionate web developer with a strong commitment to crafting cutting-edge, user-centric web applications. My expertise spans both the front-end and back-end realms of development. -->
 
 ### About Personal Stuffs:
-- 👨🏻‍💻 Full-Stack Developer focused on Python and the MERN stack (Next.js, Express.js, MongoDB).
+- 👨🏻‍💻 Full-Stack Developer focused on Python and the MERN stack (React/Next.js, Express.js, MongoDB).
+  
 - 🔭  Currently building scalable web apps and always exploring new tech.
 <!-- - 🌱  Passionate about creating web solutions that solve real-world problems. -->
 - 🌱  Passionate about Solving real-world problems through clean, maintainable code—from automation scripts to AI-driven features.
