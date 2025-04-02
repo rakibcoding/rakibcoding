@@ -26,7 +26,8 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 - 🌱  Passionate about Solving real-world problems through clean, maintainable code—from automation scripts to AI-driven features.
 <!-- - 💬 Open to collaborations and happy to discuss tech, projects, or anything interesting! -->
 - 👉 Let’s build something awesome—check out my repos or DM me!
-- ⚡ Fun fact: Music keeps me coding for hours.
+  
+- ⚡ Fun fact: Lo-fi beats or classic rock keep me in the coding zone for hours 🎧.
 <!-- - 🥅 2025 Goals  :  Pursuing advanced proficiency in Python. -->
 <!-- - ⚡ Fun fact    :  Outside the coding realm, I find joy in the strategic world of Valorant. :) -->
 
