@@ -21,8 +21,10 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 ### About Personal Stuffs:
 - 👨🏻‍💻 Full-Stack Developer focused on Python and the MERN stack (Next.js, Express.js, MongoDB).
 - 🔭  Currently building scalable web apps and always exploring new tech.
-- 🌱  Passionate about creating web solutions that solve real-world problems.
-- 💬 Open to collaborations and happy to discuss tech, projects, or anything interesting!
+<!-- - 🌱  Passionate about creating web solutions that solve real-world problems. -->
+- 🌱  Passionate about Solving real-world problems through clean, maintainable code—from automation scripts to AI-driven features.
+<!-- - 💬 Open to collaborations and happy to discuss tech, projects, or anything interesting! -->
+- 👉 Let’s build something awesome—check out my repos or DM me!
 - ⚡ Fun fact: Music keeps me coding for hours.
 <!-- - 🥅 2025 Goals  :  Pursuing advanced proficiency in Python. -->
 <!-- - ⚡ Fun fact    :  Outside the coding realm, I find joy in the strategic world of Valorant. :) -->
