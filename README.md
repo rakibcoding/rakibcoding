@@ -19,18 +19,19 @@
 I'm a passionate web developer with a strong commitment to crafting cutting-edge, user-centric web applications. My expertise spans both the front-end and back-end realms of development. -->
 
 ### About Personal Stuffs:
-- 👨🏻‍💻 Full-Stack Developer focused on Python and the MERN stack (React/Next.js, Express.js, MongoDB).
+- 👨🏻‍💻 Full-stack dev shipping modern web apps with the Next.js ecosystem — TypeScript, Prisma, Tailwind, and edge-ready architecture.
   
-- 🔭  Currently building scalable web apps and always exploring new tech.
+- 🔭 Currently building scalable SaaS & e-commerce apps — obsessed with performance, DX, and clean code.
 <!-- - 🌱  Passionate about creating web solutions that solve real-world problems. -->
-- 🌱  Passionate about Solving real-world problems through clean, maintainable code—from automation scripts to AI-driven features.
+- 🧠 Solving real-world problems with automation, AI, and composable APIs — always learning, always iterating.
 <!-- - 💬 Open to collaborations and happy to discuss tech, projects, or anything interesting! -->
-- 👉 Let’s build something awesome—check out my repos or DM me!
+- 📬 Let’s connect — check the pinned projects or drop a DM.
   
-- ⚡ Fun fact: Lo-fi beats or classic rock keep me in the coding zone for hours 🎧.
+<!-- - ⚡ Fun fact: Lo-fi beats or classic rock keep me in the coding zone for hours 🎧. -->
 <!-- - 🥅 2025 Goals  :  Pursuing advanced proficiency in Python. -->
 <!-- - ⚡ Fun fact    :  Outside the coding realm, I find joy in the strategic world of Valorant. :) -->
-
+- ⚡Lo-fi in the headphones, high-res in the code.
+<!-- - 🎧 Lo-fi in the headphones. Ultra-clean code on the screen. -->
 ### 📫 Reach me out :
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rakibcoding/)
