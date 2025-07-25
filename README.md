@@ -25,7 +25,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <!-- - 🌱  Passionate about creating web solutions that solve real-world problems. -->
 - 🧠 Solving real-world problems with automation, AI, and composable APIs — always learning, always iterating.
 <!-- - 💬 Open to collaborations and happy to discuss tech, projects, or anything interesting! -->
-- 📬 Let’s connect — check the pinned projects or drop a DM.
+<!-- - 📬 Let’s connect — check the pinned projects or drop a DM. -->
   
 <!-- - ⚡ Fun fact: Lo-fi beats or classic rock keep me in the coding zone for hours 🎧. -->
 <!-- - 🥅 2025 Goals  :  Pursuing advanced proficiency in Python. -->
