@@ -19,7 +19,7 @@
 I'm a passionate web developer with a strong commitment to crafting cutting-edge, user-centric web applications. My expertise spans both the front-end and back-end realms of development. -->
 
 ### About Personal Stuffs:
-- 👨🏻‍💻 Full-stack dev shipping modern web apps with the Next.js ecosystem — TypeScript, Prisma, Tailwind, and edge-ready architecture.
+- 👨🏻‍💻 Full-stack web dev specialized in building modern, scalable SaaS & e-commerce apps with the Next.js + TypeScript + MongoDB stack. Obsessed with clean UI, DX, and solving real-world problems with automation & APIs.
   
 - 🔭 Currently building scalable SaaS & e-commerce apps — obsessed with performance, DX, and clean code.
 <!-- - 🌱  Passionate about creating web solutions that solve real-world problems. -->
