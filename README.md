@@ -62,17 +62,17 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 
 
-<!-- # -->
+#
 <!-- Github stats Table  -->
-<!-- <summary>
+<summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>GitHub Streak : </strong>
 </summary>
 <br/>
 
 <p align="center">
-   <img width="60%" src="https://nirzak-streak-stats.vercel.app?user=RakibCoding&theme=dark)](https://git.io/streak-stats" />
-</p> -->
+   <img width="60%" src="https://streak-stats.demolab.com/?user=rakibcoding&theme=dark" />
+</p>
 
 #
 <summary>
@@ -82,7 +82,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <br/>
 
 <p align="center">
-     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rakibcoding&layout=compact&langs_count=7&theme=dracula"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibcoding&layout=compact&theme=dark"/>
 </p>
 </details>
 
@@ -127,3 +127,6 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 </div> -->
 
 <!-- <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=RakibCoding&label=Profile%20Views&color=6&pretty=false"/></a> -->
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=rakibcoding&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibcoding&layout=compact&theme=dark)
