@@ -71,11 +71,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <br/>
 
 <p align="center">
-   <!-- <img 
-  width="60%" 
-  src="https://github-readme-streak-stats-xi-topaz.vercel.app?user=rakibcoding&theme=dark&date_format=%5BY.%5Dn.j&border=DD2727" 
-/> -->
- <img   width="60%"  src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=rakibcoding&theme=algolia&card_width=800" alt="RHB"/>
+ <img  width="80%"  src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=rakibcoding&theme=algolia&card_width=800" alt="RHB"/>
 
 
 </p>
