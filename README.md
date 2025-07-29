@@ -64,11 +64,11 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 #
 <!-- Github stats Table  -->
-<!-- <summary>
+<summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>GitHub Streak : </strong>
 </summary>
-<br/> -->
+<br/>
 
 <p align="center">
    <!-- <img 
@@ -80,7 +80,7 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 </p>
 
-<!-- # -->
+#
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📊</g-emoji>
   <strong>Github Stats : </strong>
