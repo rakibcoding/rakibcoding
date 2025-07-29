@@ -121,8 +121,8 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 </div>
 
 <!--Footer--> 
-<!-- # -->
-<!-- ![footer](img/footer.webp) -->
+#
+![footer](img/footer.webp)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
@@ -130,8 +130,4 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <!-- <div align="center">
   <img align="stretch" src="https://github-widgetbox.vercel.app/api/profile?username=RakibCoding&data=followers,repositories,stars,commits&theme=onedark&title_color=000000">
 </div> -->
-
-<!-- <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=RakibCoding&label=Profile%20Views&color=6&pretty=false"/></a> -->
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=rakibcoding&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibcoding&layout=compact&theme=dark)
+<!-- 
