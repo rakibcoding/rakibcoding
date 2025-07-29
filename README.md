@@ -64,19 +64,22 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 #
 <!-- Github stats Table  -->
-<summary>
+<!-- <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>GitHub Streak : </strong>
 </summary>
-<br/>
+<br/> -->
 
-<p align="center">
-   <!-- <img width="60%" src="https://streak-stats.demolab.com/?user=rakibcoding&theme=dark" /> -->
-   <img width="60%" src="https://streak-stats.demolab.com?user=rakibcoding&theme=dark&date_format=%5BY.%5Dn.j&border=DD2727&token=YOUR_TOKEN_HERE" />
+<!-- <p align="center">
+   <img 
+  width="60%" 
+  src="https://github-readme-streak-stats-xi-topaz.vercel.app?user=rakibcoding&theme=dark&date_format=%5BY.%5Dn.j&border=DD2727" 
+/> -->
 
-</p>
 
-#
+<!-- </p> -->
+
+<!-- # -->
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📊</g-emoji>
   <strong>Github Stats : </strong>
