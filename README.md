@@ -130,4 +130,14 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <!-- <div align="center">
   <img align="stretch" src="https://github-widgetbox.vercel.app/api/profile?username=RakibCoding&data=followers,repositories,stars,commits&theme=onedark&title_color=000000">
 </div> -->
-<!-- 
+
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=niushaghavamii&icon=5&color=12)](https://visitcount.itsvg.in) -->
+
+
+ <!-- <img src="https://github-readme-activity-graph.vercel.app/graph/?username=rakibcoding&bg_color=RRGGBBAA&title_color=00aeff&color=00aeff&line=00aeff&point=2ddc97&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="RHB"/> -->
+
+ <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=rakibcoding&theme=algolia&card_width=800" alt="Pmahdian"/>
