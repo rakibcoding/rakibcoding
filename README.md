@@ -71,7 +71,9 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 <br/>
 
 <p align="center">
-   <img width="60%" src="https://streak-stats.demolab.com/?user=rakibcoding&theme=dark" />
+   <!-- <img width="60%" src="https://streak-stats.demolab.com/?user=rakibcoding&theme=dark" /> -->
+   <img width="60%" src="https://streak-stats.demolab.com?user=rakibcoding&theme=dark&date_format=%5BY.%5Dn.j&border=DD2727&token=YOUR_TOKEN_HERE" />
+
 </p>
 
 #
@@ -128,5 +130,5 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 
 <!-- <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=RakibCoding&label=Profile%20Views&color=6&pretty=false"/></a> -->
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=rakibcoding&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibcoding&layout=compact&theme=dark) -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=rakibcoding&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibcoding&layout=compact&theme=dark)
