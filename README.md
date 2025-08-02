@@ -57,8 +57,8 @@ I'm a passionate web developer with a strong commitment to crafting cutting-edge
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?&logo=next.js)
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?&logo=Node.js&logoColor=white)
-![Expressjs](https://img.shields.io/badge/express.js-404D59?&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb&logoColor=white)
+<!-- ![Expressjs](https://img.shields.io/badge/express.js-404D59?&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb&logoColor=white) -->
 
 
 
