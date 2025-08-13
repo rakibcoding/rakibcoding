@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B13D6&height=120&section=header"/>
 <div align="center">
  
-![Rakib GitHub stats](https://readme-typing-svg.demolab.com/?font=Arial&weight=900&size=30&pause=2000&color=6B13D6&vCenter=true&random=false&width=435&height=35&lines=Hello!+I+am+Rakib+Hassan+👋)
+![Rakib GitHub stats](https://readme-typing-svg.demolab.com/?font=Arial&weight=900&size=30&pause=2000&color=6B13D6&vCenter=true&random=false&width=435&height=35&lines=Hey+there!👋+I'm+Rakib.)
 
 </div>
 
