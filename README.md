@@ -11,10 +11,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
 
 ### About Personal Stuffs:
-- 👨🏻‍💻 Full-stack web dev specialized in building modern, scalable SaaS & e-commerce apps with the Next.js + TypeScript + MongoDB stack. Obsessed with clean UI, DX, and solving real-world problems with automation & APIs.
+- 👨🏻‍💻 Full-stack web developer specializing in modern, scalable SaaS & e-commerce applications using Next.js, TypeScript. Passionate about clean UI, seamless DX, and shipping products that solve real problems.
   
-- 🔭 Currently building scalable SaaS & e-commerce apps — obsessed with performance, DX, and clean code.
-- 🧠 Solving real-world problems with automation, AI, and composable APIs — always learning, always iterating.
+- 🔭 Currently crafting high-performance apps with a focus on speed, scalability, and maintainability.
+- 🧠 Leveraging automation, AI, and composable APIs to turn ideas into real-world solutions — always learning, always iterating.
 - ⚡Lo-fi in the headphones, high-res in the code.
 
 ### 📫 Reach me out :
