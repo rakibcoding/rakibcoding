@@ -35,8 +35,6 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-<!-- # -->
-<!-- <br /> -->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
@@ -84,10 +82,8 @@
 </div>
 <div align="center">
 
-
 ⭐️ Starring & Sharing the project is also appreciated. Thanks! ❤️
 
-<!-- # -->
 </div>
 <br />
 <!--Contribution Graph-->
@@ -100,18 +96,20 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibcoding&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-<!--Footer Image--> 
-#
-![footer](img/footer.webp)
-<div align="center">
+<!--Footer--> 
 
-<img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage"> ![Rakib](https://readme-typing-svg.demolab.com/?font=Arial&weight=900&size=30&pause=2000&color=6B13D6&vCenter=true&random=false&width=435&height=35&lines=Thanks!+Happy+Coding.)
+<div style="display: flex; align-items: center; gap: 20px;">
+
+<img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=48&center=true&vCenter=true&width=1200&height=100&lines=Thanks+!++Happy+Coding.)
 </div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
 
+<!-- <br/> -->
+
+<!-- # -->
+![footer image](img/footer.webp)
+![footer gradient](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=65&section=footer&fontColor=ffffff)
