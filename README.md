@@ -6,8 +6,7 @@
 <img src="img/rakib.png" alt="Hey! I'm Rakib 👋" />
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=48&center=true&vCenter=true&width=1200&height=100&lines=Full-Stack+Developer;Senior+Software+Engineer⚡)]()
-<hr/>
-
+---
 </div>
 
 <!-- Hero Image -->
