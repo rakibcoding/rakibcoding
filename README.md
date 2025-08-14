@@ -3,8 +3,11 @@
 
 <!-- Header Animation -->
 <div align="center">
+<img src="img/rakib.png" alt="Hey! I'm Rakib 👋" />
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=48&center=true&vCenter=true&width=1200&height=100&lines=Full-Stack+Developer;Senior+Software+Engineer⚡)]()
+<hr/>
 
-![Rakib](https://readme-typing-svg.demolab.com/?font=Arial&weight=900&size=30&pause=2000&color=6B13D6&vCenter=true&random=false&width=435&height=35&lines=Hey+there!👋+I'm+Rakib.)
 </div>
 
 <!-- Hero Image -->
