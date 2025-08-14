@@ -102,11 +102,15 @@
 <!--Footer--> 
 
 <div style="display: flex; align-items: center; gap: 20px;">
+  <!-- Your GIF image -->
+  <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" 
+       style="width:70px;" alt="Rakib">
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=48&center=true&vCenter=true&width=1200&height=100&lines=Thanks+!++Happy+Coding.)
+  <!-- Convert the typing SVG to an img tag -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=48&center=true&vCenter=true&width=600&height=100&lines=Thanks+!++Happy+Coding." 
+       alt="Typing text" style="height:50px;">
 </div>
+
 
 <!-- <br/> -->
 
