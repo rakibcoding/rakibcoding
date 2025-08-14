@@ -105,6 +105,11 @@
 <!--Footer Image--> 
 #
 ![footer](img/footer.webp)
+<div align="center">
+
+<img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage"> ![Rakib](https://readme-typing-svg.demolab.com/?font=Arial&weight=900&size=30&pause=2000&color=6B13D6&vCenter=true&random=false&width=435&height=35&lines=Thanks!+Happy+Coding.)
+</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
