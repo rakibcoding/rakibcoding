@@ -3,7 +3,10 @@
 
 <!-- Header Animation -->
 <div align="center">
-<img src="img/rakib.png" alt="Hey! I'm Rakib 👋" />
+<!-- <img src="img/rakib.png" alt="Hey! I'm Rakib 👋" /> -->
+<a href="https://rakibhassan.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="img/rakib.png" alt="Hey! I'm Rakib 👋" style="cursor:pointer;" />
+</a>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=48&center=true&vCenter=true&width=1200&height=100&lines=Full-Stack+Developer;Senior+Software+Engineer⚡)]()
 ---
@@ -24,6 +27,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rakibcoding/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:rakibcoding@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-blue?&logo=discord&logoColor=white)](https://discord.com/users/rakib_hassan)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-9333ea.svg?&logo=redis&logoColor=white)](https://rakibhassan.vercel.app/)
 
 <!-- Border Line -->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
