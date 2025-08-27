@@ -100,9 +100,12 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibcoding&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
+<div align="center">
+
 ### ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+</div>
 <!--Footer--> 
 
 <!-- <div style="display: flex; align-items: center; gap: 20px;">
