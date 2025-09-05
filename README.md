@@ -8,7 +8,7 @@
   <img src="img/rakib.png" alt="Hey! I'm Rakib 👋" />
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=48&center=true&vCenter=true&width=1200&height=100&lines=Full-Stack+Developer;Senior+Software+Engineer⚡)](https://rakibhassan.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=48&center=true&vCenter=true&width=1200&height=100&lines=Full-Stack+Developer;React+,Next.js+Specialist⚡)](https://rakibhassan.vercel.app/)
 ---
 </div>
 
@@ -16,10 +16,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
 
 ### About Personal Stuffs:
-- 👨🏻‍💻 Full-stack web developer specializing in modern, scalable SaaS & e-commerce applications using Next.js, TypeScript. Passionate about clean UI, seamless DX, and shipping products that solve real problems.
+- 👨🏻‍💻 Building modern, scalable SaaS and e-commerce apps with Next.js, TypeScript, and Tailwind CSS — focused on clean UI, seamless DX, and solving real-world problems.
   
-- 🔭 Currently crafting high-performance apps with a focus on speed, scalability, and maintainability.
-- 🧠 Leveraging automation, AI, and composable APIs to turn ideas into real-world solutions — always learning, always iterating.
+- 🔭 Currently crafting high-performance apps with speed, scalability, and maintainability at the core.
+- 🧠 Leveraging automation, AI, and composable APIs to ship faster and smarter — always learning, always iterating.
 - ⚡Lo-fi in the headphones, high-res in the code.
 
 ### 📫 Reach me out :
