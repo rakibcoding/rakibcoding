@@ -8,12 +8,13 @@
 [![GitHub](https://img.shields.io/github/followers/rakibcoding?label=follow&style=social)](https://github.com/rakibcoding)&nbsp;
 </div>
 
-### About Me:
-Full-Stack Developer
-- 👨🏻‍💻 Building modern SaaS and e-commerce apps with Next.js, TypeScript, and Tailwind CSS — clean UI, fast performance, and real impact.
-  
-- 🔭 Focused on scalability, maintainability, and seamless developer experience..
+### About Me
+**Full-Stack Developer**  
+- 👨🏻‍💻 Building modern SaaS & e-commerce apps with **Next.js**, **TypeScript**, and **Tailwind CSS** — clean UI, fast performance, real impact.  
+- 🔭 Focused on scalability, maintainability & seamless DX.  
 - ⚡ Always learning, always shipping.
+
+<br/>
 
 ### 📫 Reach me out :
 
@@ -26,18 +27,14 @@ Full-Stack Developer
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!--Languages and Skills Section--> 
-<span style="display: inline-flex; align-items: center; gap: 6px;">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  <b>Skills :</b>
-</span>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black)
-![NextJS](https://img.shields.io/badge/-Next.js-000000?&logo=next.js)
-![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?&logo=react&logoColor=black)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?&logo=Node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">🛠️</g-emoji>
+  <strong>Tech Stack : </strong>
+</summary>
+ <br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,express,mongodb,tailwindcss,git,figma" />
+</p>
 
 #
 <!-- Github stats Table  -->
@@ -63,7 +60,6 @@ Full-Stack Developer
 <p align="center">
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibcoding&layout=compact&theme=dark"/>
 </p>
-</details>
 
 #
 <!-- Dev Stats -->
@@ -75,11 +71,7 @@ Full-Stack Developer
 <div align="center">
 <a  href="https://app.daily.dev/rakibhassan"><img src="https://api.daily.dev/devcards/dd22b92f0fe24a20ba1dbbeeffc35fdb.png?r=g0q" width="300" alt="Rakib Hassan's Dev Card"/></a>
 </div>
-<div align="center">
 
-⭐️ Starring & Sharing the project is also appreciated. Thanks! ❤️
-
-</div>
 <br />
 <!--Contribution Graph-->
 <summary>
@@ -89,6 +81,9 @@ Full-Stack Developer
 <br />
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibcoding&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
+<div align="center">
+Thanks for visiting! If you like my work, consider ⭐️ my repositories — it keeps me motivated. 
 </div>
 
 <!--Footer--> 
