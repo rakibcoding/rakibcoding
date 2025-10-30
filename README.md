@@ -24,8 +24,8 @@
 
 ### 📫 Reach me out :
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rakibcoding/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:rakibcoding@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rakibcoding/)
 [![Discord Badge](https://img.shields.io/badge/Discord-blue?&logo=discord&logoColor=white)](https://discord.com/users/rakib_hassan)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-9333ea.svg?&logo=redis&logoColor=white)](https://rakibhassan.vercel.app/)
 
@@ -43,10 +43,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?&logo=react&logoColor=black)
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?&logo=next.js)
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
+![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?&logo=react&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?&logo=Node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
 
 #
 <!-- Github stats Table  -->
@@ -116,10 +116,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=48&center=true&vCenter=true&width=600&height=100&lines=Thanks+!++Happy+Coding." 
        alt="Typing text" style="height:50px;">
 </div> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="70" alt="Rakib" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=28&center=true&vCenter=true&width=600&height=70&lines=Thanks+!++Happy+Coding." alt="Typing text" />
-</p>
+</p> -->
 
 <!-- <br/> -->
 
