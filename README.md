@@ -1,6 +1,7 @@
 
 <a href="https://oscarhernandez.vercel.app/">
-  <img src="img/github-header.png">
+  <img src="https://raw.githubusercontent.com/rakibcoding/rakibcoding/main/img/github-header.png
+  ">
 </a>
 <div align="right">
 
@@ -33,7 +34,7 @@
 </summary>
  <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,express,mongodb,tailwindcss,git,figma" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,tailwindcss,git,figma,python" />
 </p>
 
 #
