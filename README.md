@@ -1,26 +1,19 @@
-<!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B13D6&height=120&section=header"/>
 
-<!-- Header Animation -->
-<div align="center">
-<!-- <img src="img/rakib.png" alt="Hey! I'm Rakib 👋" /> -->
-<a href="https://rakibhassan.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img src="img/rakib.png" alt="Hey! I'm Rakib 👋" />
+<a href="https://oscarhernandez.vercel.app/">
+  <img src="img/github-header.png">
 </a>
+<div align="right">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=48&center=true&vCenter=true&width=1200&height=100&lines=Full-Stack+Developer;React+,Next.js+Specialist⚡)](https://rakibhassan.vercel.app/)
----
+![profile count](https://komarev.com/ghpvc/?username=rakibcoding&color=blue)&nbsp;
+[![GitHub](https://img.shields.io/github/followers/rakibcoding?label=follow&style=social)](https://github.com/rakibcoding)&nbsp;
 </div>
 
-<!-- Hero Image -->
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
-
-### About Personal Stuffs:
-- 👨🏻‍💻 Building modern, scalable SaaS and e-commerce apps with Next.js, TypeScript, and Tailwind CSS — focused on clean UI, seamless DX, and solving real-world problems.
+### About Me:
+Full-Stack Developer
+- 👨🏻‍💻 Building modern SaaS and e-commerce apps with Next.js, TypeScript, and Tailwind CSS — clean UI, fast performance, and real impact.
   
-- 🔭 Currently crafting high-performance apps with speed, scalability, and maintainability at the core.
-- 🧠 Leveraging automation, AI, and composable APIs to ship faster and smarter — always learning, always iterating.
-- ⚡Lo-fi in the headphones, high-res in the code.
+- 🔭 Focused on scalability, maintainability, and seamless developer experience..
+- ⚡ Always learning, always shipping.
 
 ### 📫 Reach me out :
 
@@ -32,13 +25,11 @@
 <!-- Border Line -->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![profile count](https://komarev.com/ghpvc/?username=rakibcoding&color=blue)&nbsp;
-[![GitHub](https://img.shields.io/github/followers/rakibcoding?label=follow&style=social)](https://github.com/rakibcoding)&nbsp;
-
-<!--Languages and Tools Section--> 
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
+<!--Languages and Skills Section--> 
+<span style="display: inline-flex; align-items: center; gap: 6px;">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  <b>Skills :</b>
+</span>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
@@ -100,29 +91,5 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibcoding&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
-<div align="center">
-
-### ✍️ Random Dev Quote :
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
 <!--Footer--> 
-
-<!-- <div style="display: flex; align-items: center; gap: 20px;">
-
-  <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" 
-       style="width:70px;" alt="Rakib">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=48&center=true&vCenter=true&width=600&height=100&lines=Thanks+!++Happy+Coding." 
-       alt="Typing text" style="height:50px;">
-</div> -->
-<!-- <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="70" alt="Rakib" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=28&center=true&vCenter=true&width=600&height=70&lines=Thanks+!++Happy+Coding." alt="Typing text" />
-</p> -->
-
-<!-- <br/> -->
-
-<!-- # -->
-![footer image](img/footer.webp)
 ![footer gradient](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=65&section=footer&fontColor=ffffff)
